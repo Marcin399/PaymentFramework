@@ -41,7 +41,7 @@ PaymentFramework/
 
 ## Usage
 
-### Initiial UI configuration 
+### Initial UI configuration 
 
 ```swift
 let config = PaymentUIConfig(
